@@ -22,6 +22,9 @@ look around in core.clj
 
         http://localhost:3000/shortest-path?from=Wald
 
+## Version
+
+        0.1.1
 
 ## License
 
