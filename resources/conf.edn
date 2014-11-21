@@ -1,0 +1,4 @@
+;Homoiconicity awesome edn config
+{
+ :port                     3000
+ }
